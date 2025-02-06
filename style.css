@@ -2,6 +2,10 @@ body
 {
     background-color: yellow;
 }
+img
+{
+   justify-content: center; 
+}
 .container
 {
     height: 80%;
